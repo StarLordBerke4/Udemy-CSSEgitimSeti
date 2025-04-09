@@ -1,0 +1,24 @@
+#pageTitle {
+  color: red;
+}
+
+#title {
+  color: aqua;
+}
+
+.brownColor {
+  color: brown;
+}
+
+
+/*
+
+External (Sayfa Dışı) CSS :
+
+Bu CSS kullanımı güncel projelerde en çok tercih edilen kullanımdır. "Style.css" isimli bir dosya oluşturulur. HTML sayfasının dışında CSS kodları yazılır.
+
+<link rel="stylesheet" href="style.css">: komutu kullanılarak oluşturulan css sayfası html sayfasına bağlanır. Ve artık yazdığımız kodlar ile web sayfamızı şekillendirebilirz.
+
+Sektörel olarak baktığımızda bu kullanımın tercih edilme nedeni. Yazmış olduğumuz css kodları üzerinde küçük değişiklikler yaparak yeni web projelerinde de aynı css dosyasını kullanarak zamandan tasarruf etmektir.
+
+*/

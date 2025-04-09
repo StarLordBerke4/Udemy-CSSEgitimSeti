@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+}
+
+/*
+
+CSS Kullanımı Öncelik Sıralması:
+
+CSS kullanımında öncelik sıralaması içten dışa doğru ilerler. Bir HTML etiketi içerisine uygulanan "İnline (Satır İçi)" css özelliği her daim önceliklidir. 
+
+Daha sonra öncelik sıralmasında 2. sırada "Internal (Sayfa İçi)" CSS gelir. Eğer biçim özelliği değiştirilecek html etiketi içerisnde inline css kullanılmamışsa. Internal CSS geçerlidir. Ancak durum tam tersi ise inline css, internal css özelliğini ezecek ve geçersiz kılacaktır.
+
+Bu durumun sebebi öncelik sırasıdır.
+
+"External (Sayfa Dışı)" css ise öncelik sırasında en sonda olan ve diğer iki css kulanımı yoksa ilgili etikete etki eden css yazım şeklidir.
+
+Özetleyecek olursak, CSS Öncelik Sıralması aşağıdaki gibidir;
+
+1-İnline (Satır İçi)
+2-Internal (Sayfa İçi)
+3-External (Sayfa Dışı)
+
+*/

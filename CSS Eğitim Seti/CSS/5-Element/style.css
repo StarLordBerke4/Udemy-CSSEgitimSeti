@@ -1,0 +1,60 @@
+/* #pageTitle {
+  color: red;
+}
+
+#title {
+  color: aqua;
+}
+
+.brownColor {
+  color: brown;
+} */
+
+h1 {
+  color: blue;
+}
+
+li {
+  color: blueviolet;
+}
+p {
+  color: chartreuse;
+}
+
+
+/*
+
+CSS Element Kullanımı:
+
+Css kodlarını html etiketlerine uygulayabileceğimiz gibi; class, id gibi oluşturduğumuz bileşenlerede uygulamamız mümkündür.
+
+Örenek 1:
+
+li {
+    color: blueviolet;
+}
+
+p {
+    color: chartreuse;
+}
+
+Yukarıda yer alan kullanım html etiketlerine css color özelliği uygulanarak ilgili etiket içerisindeki ögelerin rengini değiştirmek için gerçekleştirilmiştir.
+
+Örnek 2:
+
+#title {
+    color: aqua;
+}
+
+Bu kullanım ıd ataması yapmış olduğumuz etiket içerisindeki ögenin rengini değiştirmek için kullanılmıştır.
+
+.brownColor {
+    color: brown;
+} 
+  
+Bu kullanım class ataması yapmış olduğumuz etiket içerisindeki ögenin rengini değiştirmek için kullanılmıştır.
+
+*/
+
+
+
