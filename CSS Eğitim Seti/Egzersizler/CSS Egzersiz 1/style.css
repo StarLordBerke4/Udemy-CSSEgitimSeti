@@ -1,0 +1,22 @@
+ h1 {
+
+    color: blue;
+ }
+
+ .Başlik {
+
+      color: red;
+      font-size: 65px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ #Başlik2 {
+
+      color: green;
+      font-size: 35px;
+ }
+
+ /*
+ Bu egzersizde ID ve Class kullanımını CSS içerisinde gördük. 
+ Ayrıca; ınline, ınternal ve external css kullanımını ve etiket öncelik sıralmasını bu egzersiz ile öğrendim.
+ */
