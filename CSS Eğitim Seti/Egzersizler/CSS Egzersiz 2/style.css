@@ -1,0 +1,30 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+div {
+
+    width: 60%;
+}
+
+
+h1 {
+
+    font-size: 120px;
+    font-weight: 400px;
+}
+
+h2 {
+
+    font-size: 60px;
+}
+
+p {
+
+    font-size: 22px;
+}
+
+#flexbox {
+
+    text-shadow: 0 -15px green, 0 -7.5px blue, 0 7.5px red, 0 15px yellow;
+}
