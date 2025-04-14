@@ -1,0 +1,27 @@
+/* h1 {
+  color: pink;
+  background-color: yellow;
+}
+
+#overview {
+  color: white;
+  background-color: green;
+} */
+
+body {
+  background-color: rgb(255, 0, 0);
+  color: #f9f4f8;
+
+  /*color: #f9f4f8;==) Nesnelerin renkleri değiştirirken ençok kullanılan yöntemlerden biri "hex" kodu olarak adlandırdığımız "#ffffff" karakterden oluşan renk kodlarıdır. Web sitesi tasarımında rekleri çok geniş yelpazede kullanmızı sağlar bu yöntem.*/
+}
+
+#overview {
+  color: rgb(54, 44, 185);
+
+  /*color: rgb(54, 44, 185); ==) Bir diğer popüler renk değiştirme işlemini ise rgb renk kodları ile gerçekleştiriz. RBG Dijital ortama çalışırken kullandığımız renk sıkalasını temsil eder. CMYK ise baskıda kullanılan renk skalasıdır. 
+  
+  NOT: RBG renk kodları 255 karakterini geçemez. R=RED=255, G=GREEN=255, B=BLUE=255 şeklinde ifade edebilirim.*/
+
+  opacity: 0.5;
+  /* opacity: 0.5; ==) Nesnelerin saydamlığını kısaca görünürlülüğünü arttırıp azaltmak için kullandığım css komutudur. Opcacity değer aralığı Max=1, Min=0 dır. Bu aralıkta değer ataması yaparız. Ör; opacity: 0,4; */
+}
