@@ -1,0 +1,12 @@
+h1 {
+  color: blue;
+  /*color: blue; ==) Color komutu metnin rengini değiştirmek için kullanılan komuttur. */
+  background-color: yellow;
+  /*background-color: yellow; ==) Bu komut ise arka plan rengini değiştirmek için kullanılır. 
+  Burada arka plandan kasıt komple web sayfasının arka planı olabileceği gibi bir metin veya paragrafın arka plan rengide olabilir.*/
+}
+
+#overview {
+  color: white;
+  background-color: green;
+}

@@ -1,0 +1,15 @@
+h1 {
+  color: pink;
+  /*color: pink; ==) Color komutu metnin rengini değiştirmek için kullanılan komuttur. 
+
+  Renk değişikli için; reklerin ingilizce ismini "red, yellow, blue",
+                      #ffffff gibi hex kodlarını,
+                      rgb (255 255 255) rgb kodlarını kullanabiliriz. */
+
+  background-color: yellow;
+}
+
+#overview {
+  color: white;
+  background-color: green;
+}
