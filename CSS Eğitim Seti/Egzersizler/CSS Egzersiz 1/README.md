@@ -11,4 +11,5 @@
 <br>
 <img align="center" src="https://github.com/StarLordBerke4/Udemy-CSSEgitimSeti/blob/main/CSS%20E%C4%9Fitim%20Seti/Egzersizler/CSS%20Egzersiz%201/Egzersiz1CSS.jpg" alt="egzersiz1" width="1100"/>
 <br>
+
 - <b>Not:</b> Yazmış olduğum bütün kodlara repo içerisinden ulaşabilirsiniz.
