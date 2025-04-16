@@ -1,0 +1,11 @@
+h1 {
+  font-size: 70px;
+  /* text-align: right; */
+}
+
+p {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 12px;
+  text-align: center; /*text-align: center; ==) Metni sağ, sola, ortaya veya iki yana yaslamak için kullanılan komuttur. Ör;" Right, Left, Center, Justifay" gibi parametreleri vardır.*/
+}

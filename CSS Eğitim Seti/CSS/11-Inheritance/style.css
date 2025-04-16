@@ -1,0 +1,20 @@
+ul {
+  color: green;
+  /*uL veya ol etiketlerinin rengi değiştirildiğinde içerisinde yer alan tüm "li" etiketlerinde rengi değişir. Burada miras alma özelliği devreye girer.*/
+}
+span {
+  color: red;
+  /*Bir liste veya metinde miras alma özelliği etkinse ilgili satira span etiketini uygulayıp rengini değiştirebiliriz. Bu sayede miras özelliği ilgili satır için pasif edilecek ve yeni uygunlan özellik devreye girecektir. Satır içine uygulanan özellik her zaman kapsayıcının önünde geçer ve önceliklidir. */
+}
+div {
+  color: blue;
+  border: 1px solid red;
+  /*border ==) Nesenelerin (karakterlerin) çevresinde kenarlık yani çerçeve oluşmasını sağlamak için kullandığımız komuttur. Ör;  border: 1px solid red; örneğinde sırası ile atanan parametreler çerçevenin; "1px:kalınlığı, solid:biçimi, red:rengini göstermektedir. */
+}
+p {
+  border: inherit;
+  /*inherit ==) özelliği kullanılarak ilgili etiketin atanan yeni özelliği miras almasını sağlayabilirz. Bu öğrenekte çerçeve özelliğinden p etiketi ve h1 etiketinin de etkilenmesini sağladık.*/
+}
+h1 {
+  border: inherit;
+}

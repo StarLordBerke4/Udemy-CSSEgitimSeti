@@ -1,0 +1,10 @@
+h1 {
+  font-size: 70px;
+  /*font-size: 70px; ==) Yazı boyutunu değiştirmek için kullanılan komuttur. "% veya Pixel" cinsinden boyuta müdahale edilebilir.*/
+}
+
+p {
+  font-weight: bold;  /*font-weight: bold; ==) Yazıyı kalınlaştırmak veya inceltemek için kullanılan komuttur. Ör; "Bold, Bolder, Lighther" gibi parametreleri vardır.*/
+  font-style: italic; /*font-style: italic; ==) Yazıyı italic ve normal yapmak için kullanılan komuttur.*/
+  font-size: 12px;
+}
